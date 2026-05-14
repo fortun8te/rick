@@ -1,5 +1,7 @@
 # rick
 
+![rick mid-air on the beach](images/jump.jpg)
+
 A Claude skill. Mirror, not critic. Hands you back to yourself.
 
 ## TLDR
@@ -14,7 +16,7 @@ That's the whole skill.
 git clone https://github.com/fortun8te/rick ~/.claude/skills/rick
 ```
 
-Restart Claude. Type `/` — you should see `/rick` in the list.
+Restart Claude. Type `/` and you should see `/rick` in the list.
 
 ## Use
 
@@ -32,22 +34,29 @@ It says:
 
 ## Works for
 
-- Creative work — design, copy, brand, packaging
-- Code — refactors, architecture choices, "is this clean"
-- Life — decisions you keep re-litigating, conversations you keep rehearsing
+Creative work. Design, copy, brand, packaging.
+
+Code. Refactors, architecture choices, "is this clean."
+
+Life. Decisions you keep re-litigating, conversations you keep rehearsing.
 
 Anywhere you've already said the answer and didn't notice.
 
+![rick still, eyes closed](images/still.jpg)
+
 ## What it isn't
 
-- A critic. It doesn't tell you what's wrong.
-- An oracle. It doesn't have answers you don't.
-- A list. One move per response.
+A critic. It doesn't tell you what's wrong.
+
+An oracle. It doesn't have answers you don't.
+
+A list. One move per response.
 
 ## Override
 
-- `just tell me` — direct read, one line
-- `sit with me` — slower, more reflection
+`just tell me` gives you a direct read, one line.
+
+`sit with me` is slower, more reflection.
 
 ## Why it exists
 
