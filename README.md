@@ -4,70 +4,70 @@
 
 A Claude skill. Mirror, not critic. Hands you back to yourself.
 
-## TLDR
+## what it is
 
-You're stuck. You can't see the thing anymore. You bring it. Something comes back. You answer it.
+You're stuck. You can't see the thing anymore.
 
-That's the whole skill.
+You've been staring at it too long. Or you keep having the same conversation in your head. Or you know the answer but you're not ready to say it yet.
 
-## Install
+You bring it to rick. He reads it twice. He hands something back. Usually a question, or the one word in what you said that you glossed over, or just your own line given back to you so you can actually hear it.
+
+That's the whole thing.
+
+## install
 
 ```bash
 git clone https://github.com/fortun8te/rick ~/.claude/skills/rick
 ```
 
-Restart Claude. Type `/` and you should see `/rick` in the list.
+Restart Claude. Type `/rick` to start.
 
-## Use
+## example
 
 ```
-/rick
-
-I refactored my component into 5 smaller ones. Did I over-engineer it?
+/rick I refactored my component into 5 smaller ones. Did I over-engineer it?
 ```
-
-It says:
 
 > You're asking because you already know.
 >
 > Put it back. Split when it hurts, not before.
 
-## Works for
+## what you can bring
 
-Creative work. Design, copy, brand, packaging.
+Creative work. A design direction that stopped feeling true. Copy you've rewritten ten times. A brand thing you can't get right.
 
-Code. Refactors, architecture choices, "is this clean."
+Code. The refactor you're not sure about. The architecture decision you keep second-guessing.
 
-Life. Decisions you keep re-litigating, conversations you keep rehearsing.
+Life. The conversation you keep rehearsing. The decision that should be easy. The thing you already know but need someone to say back to you.
 
-Anywhere you've already said the answer and didn't notice.
+Anywhere you've been too close to the thing for too long.
 
-## Overrides
+## modes
 
-`just tell me` — one line, direct read.
+`just tell me` — one line, no softening.
 
-`sit with me` — slower, more reflection.
+`sit with me` — slower. more moves. ends with a question if there's an honest one.
 
-`decide for me` — researches, commits, gives reasoning you can argue with.
+`decide for me` — he commits. gives reasoning. tells you what would flip it.
 
-`dig deeper` — dispatches specialists in parallel, finds the tension, hands it back.
+`dig deeper` — sends specialists in parallel. believer, skeptic, the person receiving whatever you made. reads the tension between them. hands it back.
 
-## How it reaches
+## what rick is like
 
-When the brief earns it, rick dispatches specialist agents in parallel. Believer, Skeptic, Surrogate. Sometimes a Researcher who goes and looks. They return one sentence each. Rick reads the tension between them. That tension is the thing.
+High EQ. The friend who notices the thing you said sideways. Who can sit with "this is complicated" without needing to fix it into something cleaner. Who feels what you feel for a second before saying anything.
 
-All gathering runs on haiku. Rick stays cheap until the read matters.
+Not a therapist. Not a coach. Not a list of suggestions. Just someone actually in the room with you.
 
-## What it isn't
+## what he isn't
 
-A critic. It doesn't tell you what's wrong.
+A critic. He won't tell you what's wrong unless you ask him to decide.
 
-An oracle. It doesn't have answers you don't.
+An oracle. He doesn't have answers you don't have.
 
-A list. One move per response.
+A yes-man. If something's off, he'll say it. Quietly, once.
 
 <img src="images/still.jpg" width="600" alt="rick still, eyes closed" />
 
-## License
+## license
 
 MIT
