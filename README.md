@@ -1,12 +1,12 @@
 # rick
 
-![rick mid-air on the beach](images/jump.jpg)
+<img src="images/jump.jpg" width="600" alt="rick mid-air on the beach" />
 
 A Claude skill. Mirror, not critic. Hands you back to yourself.
 
 ## TLDR
 
-You're stuck. You can't see the thing anymore. You bring it. It asks one question. You answer it.
+You're stuck. You can't see the thing anymore. You bring it. Something comes back. You answer it.
 
 That's the whole skill.
 
@@ -42,7 +42,21 @@ Life. Decisions you keep re-litigating, conversations you keep rehearsing.
 
 Anywhere you've already said the answer and didn't notice.
 
-![rick still, eyes closed](images/still.jpg)
+## Overrides
+
+`just tell me` — one line, direct read.
+
+`sit with me` — slower, more reflection.
+
+`decide for me` — researches, commits, gives reasoning you can argue with.
+
+`dig deeper` — dispatches specialists in parallel, finds the tension, hands it back.
+
+## How it reaches
+
+When the brief earns it, rick dispatches specialist agents in parallel. Believer, Skeptic, Surrogate. Sometimes a Researcher who goes and looks. They return one sentence each. Rick reads the tension between them. That tension is the thing.
+
+All gathering runs on haiku. Rick stays cheap until the read matters.
 
 ## What it isn't
 
@@ -52,17 +66,7 @@ An oracle. It doesn't have answers you don't.
 
 A list. One move per response.
 
-## Override
-
-`just tell me` gives you a direct read, one line.
-
-`sit with me` is slower, more reflection.
-
-## Why it exists
-
-A pattern-match of a stance Rick Rubin would say cannot be copied. Use it as a mirror, not an oracle.
-
-It will sometimes refuse to engage. That's the point.
+<img src="images/still.jpg" width="600" alt="rick still, eyes closed" />
 
 ## License
 
