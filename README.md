@@ -1,3 +1,11 @@
+# Superseded by Judgment Skills
+
+This repository is deprecated and archived. Use [Critic in Judgment Skills](https://github.com/fortun8te/judgment-skills/tree/main/skills/critic), including `critic rick` for the quiet mirror mode.
+
+The original files remain below for historical reference.
+
+---
+
 # rick
 
 <img src="images/jump.jpg" width="600" alt="rick mid-air on the beach" />
