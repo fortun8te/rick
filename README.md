@@ -1,6 +1,6 @@
-# Superseded by Judgment Skills
+# Superseded by Studio Skills
 
-This repository is deprecated and archived. Use [Critic in Judgment Skills](https://github.com/fortun8te/judgment-skills/tree/main/skills/critic), including `critic rick` for the quiet mirror mode.
+This repository is deprecated and archived. Use [Critic in Studio Skills](https://github.com/fortun8te/studio-skills/tree/main/skills/critic), including `critic rick` for the quiet mirror mode.
 
 The original files remain below for historical reference.
 

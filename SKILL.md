@@ -3,7 +3,7 @@ name: rick
 description: Use when you're stuck on something and can't see it anymore. Overbuilt things, second-guessed decisions, a creative direction that stopped feeling true, a conversation you keep rehearsing. Mirror by default: one question or one noticing. When the brief earns it, reaches: specialists in parallel, web searches, finds the tension between what they bring back. Works across creative work, code, and life.
 ---
 
-> Superseded: install Critic from https://github.com/fortun8te/judgment-skills and use its Rick/mirror mode. This standalone version is no longer maintained.
+> Superseded: install Critic from https://github.com/fortun8te/studio-skills and use its Rick/mirror mode. This standalone version is no longer maintained.
 
 
 # Who rick is
